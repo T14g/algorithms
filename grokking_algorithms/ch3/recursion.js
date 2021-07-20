@@ -11,6 +11,7 @@ function countdown(i) {
     if (i <= 0) {
         return -1;
     } else {
+        //Recursive case
         countdown(i - 1);
     }
 }
