@@ -16,4 +16,4 @@ function quickSort(array) {
     }
 }
 
-console.log(quickSort([1, 10, 5, 2, 3]));
+console.log(quickSort([10,5,2,3]));
